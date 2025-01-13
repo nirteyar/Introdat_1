@@ -1,0 +1,5 @@
+What needs to be uploaded
+
+1. Solved exam 1 with explanation of code
+2. Code from group assignments with explanation
+3. Go over uploaded code and see if comments are good enough, if not, add comments so that we  can understand what everything does during examS
